@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+#main_content .inner {
+ max-width: 90%
+}
+
 h1, h2, h3, p {
  text-align: center;
 }
